@@ -20,6 +20,6 @@ deux_joueurs : version du jeu à 2 joueurs
 jeu_ia : mettre en place et tester l'algorithme du minimax pour que l'ordinateur puisse joueur
 creation_train_images : permet de créer les images pour entraîner le model
 storage_cnn : permet d'entraîner l'IA puis d'enregister son progrès dans le fichier model_morpion.h5
-reconnaissance_morpion : teste des prédictions de l'IA
+reconnaissance_morpion : test des prédictions de l'IA
 
 cercle et croix : images du cercle et de la croix utilisées pour l'interface du jeu
